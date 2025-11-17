@@ -77,7 +77,7 @@ int main(int argc, char *argv[]) {
 
 ## Output
 
-<img width="585" height="112" alt="edd" src="https://github.com/user-attachments/assets/6c74702e-be78-4f67-8769-157712fef49c" />
+![alt text](image.png)
 
 
 ## 2.To Write a C program that illustrates files locking
@@ -154,12 +154,11 @@ int main(int argc, char *argv[]) {
 
 ## OUTPUT:
 
-<img width="959" height="547" alt="514714824-8e0c797f-b645-46dd-81eb-414d4d5d5680" src="https://github.com/user-attachments/assets/eb9d0555-2f77-4ee3-ae2d-63d141aa8bbd" />
+![alt text](image-1.png)
 
-<img width="946" height="431" alt="514714835-b5f0a11a-7f11-4f89-81c0-8d2bcb2369f8" src="https://github.com/user-attachments/assets/184e92c5-423c-4073-86c1-2787a7a035ff" />
+![alt text](image-2.png)
 
-<img width="894" height="370" alt="514714853-fdbfea4d-afa7-494e-bd91-d7377b50c685" src="https://github.com/user-attachments/assets/7223aba0-15c9-4274-8031-4f3b9e9a4505" />
-
+![alt text](image-3.png)
 ## RESULT:
 
 The programs are executed successfully.
